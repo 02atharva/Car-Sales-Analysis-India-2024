@@ -1,0 +1,1056 @@
+﻿Make,Model,Months,Sales,Total,Segment,Body Type,MoM %,YoY %
+Citroen,Basalt,January,0,1267,C2,SUV,68,0
+Citroen,Basalt,February,0,1267,C2,SUV,68,0
+Citroen,Basalt,March,0,1267,C2,SUV,68,0
+Citroen,Basalt,April,0,1267,C2,SUV,68,0
+Citroen,Basalt,May,0,1267,C2,SUV,68,0
+Citroen,Basalt,June,0,1267,C2,SUV,68,0
+Citroen,Basalt,July,0,1267,C2,SUV,68,0
+Citroen,Basalt,August,579,1267,C2,SUV,68,0
+Citroen,Basalt,September,341,1267,C2,SUV,68,0
+Citroen,Basalt,October ,221,1267,C2,SUV,68,0
+Citroen,Basalt,November ,47,1267,C2,SUV,68,0
+Citroen,Basalt,December,79,1267,C2,SUV,68,0
+Citroen,C3,January,234,2890,C1,Hatchback,50,-3
+Citroen,C3,February,211,2890,C1,Hatchback,50,-3
+Citroen,C3,March,265,2890,C1,Hatchback,50,-3
+Citroen,C3,April,251,2890,C1,Hatchback,50,-3
+Citroen,C3,May,155,2890,C1,Hatchback,50,-3
+Citroen,C3,June,77,2890,C1,Hatchback,50,-3
+Citroen,C3,July,90,2890,C1,Hatchback,50,-3
+Citroen,C3,August,507,2890,C1,Hatchback,50,-3
+Citroen,C3,September,300,2890,C1,Hatchback,50,-3
+Citroen,C3,October ,300,2890,C1,Hatchback,50,-3
+Citroen,C3,November ,200,2890,C1,Hatchback,50,-3
+Citroen,C3,December,300,2890,C1,Hatchback,50,-3
+Citroen,Aircross,January,231,1470,C2,SUV,-52,-72
+Citroen,Aircross,February,127,1470,C2,SUV,-52,-72
+Citroen,Aircross,March,211,1470,C2,SUV,-52,-72
+Citroen,Aircross,April,93,1470,C2,SUV,-52,-72
+Citroen,Aircross,May,125,1470,C2,SUV,-52,-72
+Citroen,Aircross,June,136,1470,C2,SUV,-52,-72
+Citroen,Aircross,July,68,1470,C2,SUV,-52,-72
+Citroen,Aircross,August,38,1470,C2,SUV,-52,-72
+Citroen,Aircross,September,41,1470,C2,SUV,-52,-72
+Citroen,Aircross,October ,103,1470,C2,SUV,-52,-72
+Citroen,Aircross,November ,201,1470,C2,SUV,-52,-72
+Citroen,Aircross,December,96,1470,C2,SUV,-52,-72
+Citroen,C5 Aircross,January,1,9,D2,SUV,0,-50
+Citroen,C5 Aircross,February,0,9,D2,SUV,0,-50
+Citroen,C5 Aircross,March,0,9,D2,SUV,0,-50
+Citroen,C5 Aircross,April,1,9,D2,SUV,0,-50
+Citroen,C5 Aircross,May,0,9,D2,SUV,0,-50
+Citroen,C5 Aircross,June,0,9,D2,SUV,0,-50
+Citroen,C5 Aircross,July,0,9,D2,SUV,0,-50
+Citroen,C5 Aircross,August,1,9,D2,SUV,0,-50
+Citroen,C5 Aircross,September,1,9,D2,SUV,0,-50
+Citroen,C5 Aircross,October ,4,9,D2,SUV,0,-50
+Citroen,C5 Aircross,November ,0,9,D2,SUV,0,-50
+Citroen,C5 Aircross,December,1,9,D2,SUV,0,-50
+Citroen,e-C3,January,184,1812,C1,SUV,48,0
+Citroen,e-C3,February,83,1812,C1,SUV,48,0
+Citroen,e-C3,March,530,1812,C1,SUV,48,0
+Citroen,e-C3,April,59,1812,C1,SUV,48,0
+Citroen,e-C3,May,235,1812,C1,SUV,48,0
+Citroen,e-C3,June,126,1812,C1,SUV,48,0
+Citroen,e-C3,July,177,1812,C1,SUV,48,0
+Citroen,e-C3,August,150,1812,C1,SUV,48,0
+Citroen,e-C3,September,28,1812,C1,SUV,48,0
+Citroen,e-C3,October ,89,1812,C1,SUV,48,0
+Citroen,e-C3,November ,61,1812,C1,SUV,48,0
+Citroen,e-C3,December,90,1812,C1,SUV,48,0
+Honda,Amaze,January,2972,30690,C1,Sedan,41,54
+Honda,Amaze,February,2774,30690,C1,Sedan,41,54
+Honda,Amaze,March,2678,30690,C1,Sedan,41,54
+Honda,Amaze,April,1796,30690,C1,Sedan,41,54
+Honda,Amaze,May,2215,30690,C1,Sedan,41,54
+Honda,Amaze,June,1794,30690,C1,Sedan,41,54
+Honda,Amaze,July,2327,30690,C1,Sedan,41,54
+Honda,Amaze,August,2585,30690,C1,Sedan,41,54
+Honda,Amaze,September,2820,30690,C1,Sedan,41,54
+Honda,Amaze,October ,2393,30690,C1,Sedan,41,54
+Honda,Amaze,November ,2628,30690,C1,Sedan,41,54
+Honda,Amaze,December,3708,30690,C1,Sedan,41,54
+Honda,City,January,1123,11526,C2,Sedan,10,-30
+Honda,City,February,1184,11526,C2,Sedan,10,-30
+Honda,City,March,1116,11526,C2,Sedan,10,-30
+Honda,City,April,824,11526,C2,Sedan,10,-30
+Honda,City,May,1054,11526,C2,Sedan,10,-30
+Honda,City,June,859,11526,C2,Sedan,10,-30
+Honda,City,July,957,11526,C2,Sedan,10,-30
+Honda,City,August,1018,11526,C2,Sedan,10,-30
+Honda,City,September,895,11526,C2,Sedan,10,-30
+Honda,City,October ,1004,11526,C2,Sedan,10,-30
+Honda,City,November ,709,11526,C2,Sedan,10,-30
+Honda,City,December,783,11526,C2,Sedan,10,-30
+Honda,Elevate,January,4586,27656,C2,SUV,40,-47
+Honda,Elevate,February,3184,27656,C2,SUV,40,-47
+Honda,Elevate,March,3277,27656,C2,SUV,40,-47
+Honda,Elevate,April,1731,27656,C2,SUV,40,-47
+Honda,Elevate,May,1553,27656,C2,SUV,40,-47
+Honda,Elevate,June,2151,27656,C2,SUV,40,-47
+Honda,Elevate,July,1340,27656,C2,SUV,40,-47
+Honda,Elevate,August,1723,27656,C2,SUV,40,-47
+Honda,Elevate,September,1960,27656,C2,SUV,40,-47
+Honda,Elevate,October ,2149,27656,C2,SUV,40,-47
+Honda,Elevate,November ,1668,27656,C2,SUV,40,-47
+Honda,Elevate,December,2334,27656,C2,SUV,40,-47
+Hyundai,Aura,January,5516,55138,C1,Sedan,-9,1
+Hyundai,Aura,February,5053,55138,C1,Sedan,-9,1
+Hyundai,Aura,March,4883,55138,C1,Sedan,-9,1
+Hyundai,Aura,April,4526,55138,C1,Sedan,-9,1
+Hyundai,Aura,May,4433,55138,C1,Sedan,-9,1
+Hyundai,Aura,June,4299,55138,C1,Sedan,-9,1
+Hyundai,Aura,July,4757,55138,C1,Sedan,-9,1
+Hyundai,Aura,August,4304,55138,C1,Sedan,-9,1
+Hyundai,Aura,September,4462,55138,C1,Sedan,-9,1
+Hyundai,Aura,October ,4805,55138,C1,Sedan,-9,1
+Hyundai,Aura,November ,4248,55138,C1,Sedan,-9,1
+Hyundai,Aura,December,3852,55138,C1,Sedan,-9,1
+Hyundai,Alcazar,January,1827,17664,C2,MUV,-37,41
+Hyundai,Alcazar,February,1290,17664,C2,MUV,-37,41
+Hyundai,Alcazar,March,1420,17664,C2,MUV,-37,41
+Hyundai,Alcazar,April,1219,17664,C2,MUV,-37,41
+Hyundai,Alcazar,May,944,17664,C2,MUV,-37,41
+Hyundai,Alcazar,June,882,17664,C2,MUV,-37,41
+Hyundai,Alcazar,July,585,17664,C2,MUV,-37,41
+Hyundai,Alcazar,August,1105,17664,C2,MUV,-37,41
+Hyundai,Alcazar,September,2712,17664,C2,MUV,-37,41
+Hyundai,Alcazar,October ,2204,17664,C2,MUV,-37,41
+Hyundai,Alcazar,November ,2134,17664,C2,MUV,-37,41
+Hyundai,Alcazar,December,1342,17664,C2,MUV,-37,41
+Hyundai,Creta,January,13212,186919,C2,SUV,-18,36
+Hyundai,Creta,February,15276,186919,C2,SUV,-18,36
+Hyundai,Creta,March,16458,186919,C2,SUV,-18,36
+Hyundai,Creta,April,15447,186919,C2,SUV,-18,36
+Hyundai,Creta,May,14662,186919,C2,SUV,-18,36
+Hyundai,Creta,June,16293,186919,C2,SUV,-18,36
+Hyundai,Creta,July,17350,186919,C2,SUV,-18,36
+Hyundai,Creta,August,16762,186919,C2,SUV,-18,36
+Hyundai,Creta,September,15902,186919,C2,SUV,-18,36
+Hyundai,Creta,October ,17497,186919,C2,SUV,-18,36
+Hyundai,Creta,November ,15452,186919,C2,SUV,-18,36
+Hyundai,Creta,December,12608,186919,C2,SUV,-18,36
+Hyundai,Exter,January,8229,84368,C1,SUV,-8,-30
+Hyundai,Exter,February,7582,84368,C1,SUV,-8,-30
+Hyundai,Exter,March,8475,84368,C1,SUV,-8,-30
+Hyundai,Exter,April,7756,84368,C1,SUV,-8,-30
+Hyundai,Exter,May,7697,84368,C1,SUV,-8,-30
+Hyundai,Exter,June,6908,84368,C1,SUV,-8,-30
+Hyundai,Exter,July,6037,84368,C1,SUV,-8,-30
+Hyundai,Exter,August,6632,84368,C1,SUV,-8,-30
+Hyundai,Exter,September,6908,84368,C1,SUV,-8,-30
+Hyundai,Exter,October ,7127,84368,C1,SUV,-8,-30
+Hyundai,Exter,November ,5747,84368,C1,SUV,-8,-30
+Hyundai,Exter,December,5270,84368,C1,SUV,-8,-30
+Hyundai,Grand i10 ,January,6865,64020,B2,Hatchback,-21,-14
+Hyundai,Grand i10 ,February,4947,64020,B2,Hatchback,-21,-14
+Hyundai,Grand i10 ,March,5034,64020,B2,Hatchback,-21,-14
+Hyundai,Grand i10 ,April,5117,64020,B2,Hatchback,-21,-14
+Hyundai,Grand i10 ,May,5328,64020,B2,Hatchback,-21,-14
+Hyundai,Grand i10 ,June,4948,64020,B2,Hatchback,-21,-14
+Hyundai,Grand i10 ,July,4922,64020,B2,Hatchback,-21,-14
+Hyundai,Grand i10 ,August,5365,64020,B2,Hatchback,-21,-14
+Hyundai,Grand i10 ,September,5103,64020,B2,Hatchback,-21,-14
+Hyundai,Grand i10 ,October ,6235,64020,B2,Hatchback,-21,-14
+Hyundai,Grand i10 ,November ,5667,64020,B2,Hatchback,-21,-14
+Hyundai,Grand i10 ,December,4489,64020,B2,Hatchback,-21,-14
+Hyundai,i20,January,7083,60762,B2,Hatchback,-12,-25
+Hyundai,i20,February,5131,60762,B2,Hatchback,-12,-25
+Hyundai,i20,March,5155,60762,B2,Hatchback,-12,-25
+Hyundai,i20,April,5899,60762,B2,Hatchback,-12,-25
+Hyundai,i20,May,5169,60762,B2,Hatchback,-12,-25
+Hyundai,i20,June,5315,60762,B2,Hatchback,-12,-25
+Hyundai,i20,July,4937,60762,B2,Hatchback,-12,-25
+Hyundai,i20,August,4913,60762,B2,Hatchback,-12,-25
+Hyundai,i20,September,4428,60762,B2,Hatchback,-12,-25
+Hyundai,i20,October ,5354,60762,B2,Hatchback,-12,-25
+Hyundai,i20,November ,3925,60762,B2,Hatchback,-12,-25
+Hyundai,i20,December,3453,60762,B2,Hatchback,-12,-25
+Hyundai,Ioniq 5,January,95,528,Premium,SUV,9,-70
+Hyundai,Ioniq 5,February,66,528,Premium,SUV,9,-70
+Hyundai,Ioniq 5,March,65,528,Premium,SUV,9,-70
+Hyundai,Ioniq 5,April,45,528,Premium,SUV,9,-70
+Hyundai,Ioniq 5,May,42,528,Premium,SUV,9,-70
+Hyundai,Ioniq 5,June,30,528,Premium,SUV,9,-70
+Hyundai,Ioniq 5,July,36,528,Premium,SUV,9,-70
+Hyundai,Ioniq 5,August,40,528,Premium,SUV,9,-70
+Hyundai,Ioniq 5,September,31,528,Premium,SUV,9,-70
+Hyundai,Ioniq 5,October ,32,528,Premium,SUV,9,-70
+Hyundai,Ioniq 5,November ,22,528,Premium,SUV,9,-70
+Hyundai,Ioniq 5,December,24,528,Premium,SUV,9,-70
+Hyundai,Kona,January,102,259,Premium,SUV,0,0
+Hyundai,Kona,February,86,259,Premium,SUV,0,0
+Hyundai,Kona,March,71,259,Premium,SUV,0,0
+Hyundai,Kona,April,0,259,Premium,SUV,0,0
+Hyundai,Kona,May,0,259,Premium,SUV,0,0
+Hyundai,Kona,June,0,259,Premium,SUV,0,0
+Hyundai,Kona,July,0,259,Premium,SUV,0,0
+Hyundai,Kona,August,0,259,Premium,SUV,0,0
+Hyundai,Kona,September,0,259,Premium,SUV,0,0
+Hyundai,Kona,October ,0,259,Premium,SUV,0,0
+Hyundai,Kona,November ,0,259,Premium,SUV,0,0
+Hyundai,Kona,December,0,259,Premium,SUV,0,0
+Hyundai,Tucson,January,183,1543,D2,SUV,-61,-84
+Hyundai,Tucson,February,157,1543,D2,SUV,-61,-84
+Hyundai,Tucson,March,110,1543,D2,SUV,-61,-84
+Hyundai,Tucson,April,201,1543,D2,SUV,-61,-84
+Hyundai,Tucson,May,168,1543,D2,SUV,-61,-84
+Hyundai,Tucson,June,114,1543,D2,SUV,-61,-84
+Hyundai,Tucson,July,129,1543,D2,SUV,-61,-84
+Hyundai,Tucson,August,125,1543,D2,SUV,-61,-84
+Hyundai,Tucson,September,98,1543,D2,SUV,-61,-84
+Hyundai,Tucson,October ,141,1543,D2,SUV,-61,-84
+Hyundai,Tucson,November ,84,1543,D2,SUV,-61,-84
+Hyundai,Tucson,December,33,1543,D2,SUV,-61,-84
+Hyundai,Venue,January,11831,117819,C1,SUV,5,-1
+Hyundai,Venue,February,8933,117819,C1,SUV,5,-1
+Hyundai,Venue,March,9614,117819,C1,SUV,5,-1
+Hyundai,Venue,April,9120,117819,C1,SUV,5,-1
+Hyundai,Venue,May,9327,117819,C1,SUV,5,-1
+Hyundai,Venue,June,9890,117819,C1,SUV,5,-1
+Hyundai,Venue,July,8840,117819,C1,SUV,5,-1
+Hyundai,Venue,August,9085,117819,C1,SUV,5,-1
+Hyundai,Venue,September,10259,117819,C1,SUV,5,-1
+Hyundai,Venue,October ,10901,117819,C1,SUV,5,-1
+Hyundai,Venue,November ,9754,117819,C1,SUV,5,-1
+Hyundai,Venue,December,10265,117819,C1,SUV,5,-1
+Hyundai,Verna,January,2172,17113,C2,Sedan,-28,22
+Hyundai,Verna,February,1680,17113,C2,Sedan,-28,22
+Hyundai,Verna,March,1716,17113,C2,Sedan,-28,22
+Hyundai,Verna,April,1571,17113,C2,Sedan,-28,22
+Hyundai,Verna,May,1381,17113,C2,Sedan,-28,22
+Hyundai,Verna,June,1424,17113,C2,Sedan,-28,22
+Hyundai,Verna,July,1420,17113,C2,Sedan,-28,22
+Hyundai,Verna,August,1194,17113,C2,Sedan,-28,22
+Hyundai,Verna,September,1198,17113,C2,Sedan,-28,22
+Hyundai,Verna,October ,1272,17113,C2,Sedan,-28,22
+Hyundai,Verna,November ,1213,17113,C2,Sedan,-28,22
+Hyundai,Verna,December,872,17113,C2,Sedan,-28,22
+Jeep,Compass,January,286,2988,D1,SUV,-7,-29
+Jeep,Compass,February,204,2988,D1,SUV,-7,-29
+Jeep,Compass,March,329,2988,D1,SUV,-7,-29
+Jeep,Compass,April,282,2988,D1,SUV,-7,-29
+Jeep,Compass,May,269,2988,D1,SUV,-7,-29
+Jeep,Compass,June,216,2988,D1,SUV,-7,-29
+Jeep,Compass,July,213,2988,D1,SUV,-7,-29
+Jeep,Compass,August,280,2988,D1,SUV,-7,-29
+Jeep,Compass,September,310,2988,D1,SUV,-7,-29
+Jeep,Compass,October ,236,2988,D1,SUV,-7,-29
+Jeep,Compass,November ,188,2988,D1,SUV,-7,-29
+Jeep,Compass,December,175,2988,D1,SUV,-7,-29
+Jeep,Meridian,January,110,1218,D2,SUV,-36,-42
+Jeep,Meridian,February,127,1218,D2,SUV,-36,-42
+Jeep,Meridian,March,96,1218,D2,SUV,-36,-42
+Jeep,Meridian,April,95,1218,D2,SUV,-36,-42
+Jeep,Meridian,May,75,1218,D2,SUV,-36,-42
+Jeep,Meridian,June,65,1218,D2,SUV,-36,-42
+Jeep,Meridian,July,63,1218,D2,SUV,-36,-42
+Jeep,Meridian,August,60,1218,D2,SUV,-36,-42
+Jeep,Meridian,September,55,1218,D2,SUV,-36,-42
+Jeep,Meridian,October ,188,1218,D2,SUV,-36,-42
+Jeep,Meridian,November ,173,1218,D2,SUV,-36,-42
+Jeep,Meridian,December,111,1218,D2,SUV,-36,-42
+Jeep,Wrangler,January,0,0,Premium,SUV,0,0
+Jeep,Wrangler,February,0,0,Premium,SUV,0,0
+Jeep,Wrangler,March,0,0,Premium,SUV,0,0
+Jeep,Wrangler,April,0,0,Premium,SUV,0,0
+Jeep,Wrangler,May,0,0,Premium,SUV,0,0
+Jeep,Wrangler,June,0,0,Premium,SUV,0,0
+Jeep,Wrangler,July,0,0,Premium,SUV,0,0
+Jeep,Wrangler,August,0,0,Premium,SUV,0,0
+Jeep,Wrangler,September,0,0,Premium,SUV,0,0
+Jeep,Wrangler,October ,0,0,Premium,SUV,0,0
+Jeep,Wrangler,November ,0,0,Premium,SUV,0,0
+Jeep,Wrangler,December,0,0,Premium,SUV,0,0
+Kia,Carens,January,5848,63674,Utility,MUV,-54,2
+Kia,Carens,February,4832,63674,Utility,MUV,-54,2
+Kia,Carens,March,4737,63674,Utility,MUV,-54,2
+Kia,Carens,April,5328,63674,Utility,MUV,-54,2
+Kia,Carens,May,5316,63674,Utility,MUV,-54,2
+Kia,Carens,June,5154,63674,Utility,MUV,-54,2
+Kia,Carens,July,5679,63674,Utility,MUV,-54,2
+Kia,Carens,August,5881,63674,Utility,MUV,-54,2
+Kia,Carens,September,6217,63674,Utility,MUV,-54,2
+Kia,Carens,October ,6384,63674,Utility,MUV,-54,2
+Kia,Carens,November ,5672,63674,Utility,MUV,-54,2
+Kia,Carens,December,2626,63674,Utility,MUV,-54,2
+Kia,Carnival,January,0,599,D2,MUV,-57,0
+Kia,Carnival,February,0,599,D2,MUV,-57,0
+Kia,Carnival,March,0,599,D2,MUV,-57,0
+Kia,Carnival,April,0,599,D2,MUV,-57,0
+Kia,Carnival,May,0,599,D2,MUV,-57,0
+Kia,Carnival,June,0,599,D2,MUV,-57,0
+Kia,Carnival,July,0,599,D2,MUV,-57,0
+Kia,Carnival,August,0,599,D2,MUV,-57,0
+Kia,Carnival,September,0,599,D2,MUV,-57,0
+Kia,Carnival,October ,255,599,D2,MUV,-57,0
+Kia,Carnival,November ,241,599,D2,MUV,-57,0
+Kia,Carnival,December,103,599,D2,MUV,-57,0
+Kia,EV6,January,0,292,Premium,SUV,-10,917
+Kia,EV6,February,1,292,Premium,SUV,-10,917
+Kia,EV6,March,1,292,Premium,SUV,-10,917
+Kia,EV6,April,5,292,Premium,SUV,-10,917
+Kia,EV6,May,15,292,Premium,SUV,-10,917
+Kia,EV6,June,24,292,Premium,SUV,-10,917
+Kia,EV6,July,22,292,Premium,SUV,-10,917
+Kia,EV6,August,33,292,Premium,SUV,-10,917
+Kia,EV6,September,12,292,Premium,SUV,-10,917
+Kia,EV6,October ,50,292,Premium,SUV,-10,917
+Kia,EV6,November ,68,292,Premium,SUV,-10,917
+Kia,EV6,December,61,292,Premium,SUV,-10,917
+Kia,Seltos,January,6391,73745,C2,SUV,-47,-72
+Kia,Seltos,February,6265,73745,C2,SUV,-47,-72
+Kia,Seltos,March,7912,73745,C2,SUV,-47,-72
+Kia,Seltos,April,6734,73745,C2,SUV,-47,-72
+Kia,Seltos,May,6736,73745,C2,SUV,-47,-72
+Kia,Seltos,June,6306,73745,C2,SUV,-47,-72
+Kia,Seltos,July,5347,73745,C2,SUV,-47,-72
+Kia,Seltos,August,6536,73745,C2,SUV,-47,-72
+Kia,Seltos,September,6959,73745,C2,SUV,-47,-72
+Kia,Seltos,October ,6365,73745,C2,SUV,-47,-72
+Kia,Seltos,November ,5364,73745,C2,SUV,-47,-72
+Kia,Seltos,December,2830,73745,C2,SUV,-47,-72
+Kia,Sonet,January,11530,106690,C1,SUV,-64,33270
+Kia,Sonet,February,9102,106690,C1,SUV,-64,33270
+Kia,Sonet,March,8750,106690,C1,SUV,-64,33270
+Kia,Sonet,April,7901,106690,C1,SUV,-64,33270
+Kia,Sonet,May,7433,106690,C1,SUV,-64,33270
+Kia,Sonet,June,9816,106690,C1,SUV,-64,33270
+Kia,Sonet,July,9459,106690,C1,SUV,-64,33270
+Kia,Sonet,August,10073,106690,C1,SUV,-64,33270
+Kia,Sonet,September,10335,106690,C1,SUV,-64,33270
+Kia,Sonet,October ,9699,106690,C1,SUV,-64,33270
+Kia,Sonet,November ,9255,106690,C1,SUV,-64,33270
+Kia,Sonet,December,3337,106690,C1,SUV,-64,33270
+Mahindra,Bolero,January,9964,99771,Utility,MUV,-16,-26
+Mahindra,Bolero,February,10113,99771,Utility,MUV,-16,-26
+Mahindra,Bolero,March,10347,99771,Utility,MUV,-16,-26
+Mahindra,Bolero,April,9537,99771,Utility,MUV,-16,-26
+Mahindra,Bolero,May,8026,99771,Utility,MUV,-16,-26
+Mahindra,Bolero,June,7365,99771,Utility,MUV,-16,-26
+Mahindra,Bolero,July,6930,99771,Utility,MUV,-16,-26
+Mahindra,Bolero,August,6494,99771,Utility,MUV,-16,-26
+Mahindra,Bolero,September,8180,99771,Utility,MUV,-16,-26
+Mahindra,Bolero,October ,9849,99771,Utility,MUV,-16,-26
+Mahindra,Bolero,November ,7045,99771,Utility,MUV,-16,-26
+Mahindra,Bolero,December,5921,99771,Utility,MUV,-16,-26
+Mahindra,Marazzo,January,32,273,Utility,MUV,78,-74
+Mahindra,Marazzo,February,51,273,Utility,MUV,78,-74
+Mahindra,Marazzo,March,51,273,Utility,MUV,78,-74
+Mahindra,Marazzo,April,20,273,Utility,MUV,78,-74
+Mahindra,Marazzo,May,16,273,Utility,MUV,78,-74
+Mahindra,Marazzo,June,12,273,Utility,MUV,78,-74
+Mahindra,Marazzo,July,14,273,Utility,MUV,78,-74
+Mahindra,Marazzo,August,8,273,Utility,MUV,78,-74
+Mahindra,Marazzo,September,7,273,Utility,MUV,78,-74
+Mahindra,Marazzo,October ,37,273,Utility,MUV,78,-74
+Mahindra,Marazzo,November ,9,273,Utility,MUV,78,-74
+Mahindra,Marazzo,December,16,273,Utility,MUV,78,-74
+Mahindra,Scorpio,January,14293,166364,C2,SUV,-4,7
+Mahindra,Scorpio,February,15051,166364,C2,SUV,-4,7
+Mahindra,Scorpio,March,15151,166364,C2,SUV,-4,7
+Mahindra,Scorpio,April,14807,166364,C2,SUV,-4,7
+Mahindra,Scorpio,May,13717,166364,C2,SUV,-4,7
+Mahindra,Scorpio,June,12307,166364,C2,SUV,-4,7
+Mahindra,Scorpio,July,12237,166364,C2,SUV,-4,7
+Mahindra,Scorpio,August,13787,166364,C2,SUV,-4,7
+Mahindra,Scorpio,September,14438,166364,C2,SUV,-4,7
+Mahindra,Scorpio,October ,15677,166364,C2,SUV,-4,7
+Mahindra,Scorpio,November ,12704,166364,C2,SUV,-4,7
+Mahindra,Scorpio,December,12195,166364,C2,SUV,-4,7
+Mahindra,Thar,January,6059,77013,Utility,SUV,-12,32
+Mahindra,Thar,February,5812,77013,Utility,SUV,-12,32
+Mahindra,Thar,March,6049,77013,Utility,SUV,-12,32
+Mahindra,Thar,April,6160,77013,Utility,SUV,-12,32
+Mahindra,Thar,May,5750,77013,Utility,SUV,-12,32
+Mahindra,Thar,June,5376,77013,Utility,SUV,-12,32
+Mahindra,Thar,July,4385,77013,Utility,SUV,-12,32
+Mahindra,Thar,August,4268,77013,Utility,SUV,-12,32
+Mahindra,Thar,September,8843,77013,Utility,SUV,-12,32
+Mahindra,Thar,October ,7944,77013,Utility,SUV,-12,32
+Mahindra,Thar,November ,8708,77013,Utility,SUV,-12,32
+Mahindra,Thar,December,7659,77013,Utility,SUV,-12,32
+Mahindra,"XUV300, XUV 3X0",January,4817,85828,C1,SUV,-9,97
+Mahindra,"XUV300, XUV 3X0",February,4218,85828,C1,SUV,-9,97
+Mahindra,"XUV300, XUV 3X0",March,2072,85828,C1,SUV,-9,97
+Mahindra,"XUV300, XUV 3X0",April,4003,85828,C1,SUV,-9,97
+Mahindra,"XUV300, XUV 3X0",May,10000,85828,C1,SUV,-9,97
+Mahindra,"XUV300, XUV 3X0",June,8500,85828,C1,SUV,-9,97
+Mahindra,"XUV300, XUV 3X0",July,10000,85828,C1,SUV,-9,97
+Mahindra,"XUV300, XUV 3X0",August,9000,85828,C1,SUV,-9,97
+Mahindra,"XUV300, XUV 3X0",September,9000,85828,C1,SUV,-9,97
+Mahindra,"XUV300, XUV 3X0",October ,9562,85828,C1,SUV,-9,97
+Mahindra,"XUV300, XUV 3X0",November ,7656,85828,C1,SUV,-9,97
+Mahindra,"XUV300, XUV 3X0",December,7000,85828,C1,SUV,-9,97
+Mahindra,XUV400,January,697,8484,C2,SUV,30,142
+Mahindra,XUV400,February,610,8484,C2,SUV,30,142
+Mahindra,XUV400,March,350,8484,C2,SUV,30,142
+Mahindra,XUV400,April,347,8484,C2,SUV,30,142
+Mahindra,XUV400,May,701,8484,C2,SUV,30,142
+Mahindra,XUV400,June,534,8484,C2,SUV,30,142
+Mahindra,XUV400,July,288,8484,C2,SUV,30,142
+Mahindra,XUV400,August,713,8484,C2,SUV,30,142
+Mahindra,XUV400,September,948,8484,C2,SUV,30,142
+Mahindra,XUV400,October ,1000,8484,C2,SUV,30,142
+Mahindra,XUV400,November ,1000,8484,C2,SUV,30,142
+Mahindra,XUV400,December,1296,8484,C2,SUV,30,142
+Mahindra,XUV700,January,7206,90727,D1,SUV,-19,25
+Mahindra,XUV700,February,6546,90727,D1,SUV,-19,25
+Mahindra,XUV700,March,6611,90727,D1,SUV,-19,25
+Mahindra,XUV700,April,6134,90727,D1,SUV,-19,25
+Mahindra,XUV700,May,5008,90727,D1,SUV,-19,25
+Mahindra,XUV700,June,5928,90727,D1,SUV,-19,25
+Mahindra,XUV700,July,7769,90727,D1,SUV,-19,25
+Mahindra,XUV700,August,9007,90727,D1,SUV,-19,25
+Mahindra,XUV700,September,9646,90727,D1,SUV,-19,25
+Mahindra,XUV700,October ,10435,90727,D1,SUV,-19,25
+Mahindra,XUV700,November ,9100,90727,D1,SUV,-19,25
+Mahindra,XUV700,December,7337,90727,D1,SUV,-19,25
+Maruti,Alto,January,12395,105922,A,Hatchback,-1,197
+Maruti,Alto,February,11723,105922,A,Hatchback,-1,197
+Maruti,Alto,March,9332,105922,A,Hatchback,-1,197
+Maruti,Alto,April,9043,105922,A,Hatchback,-1,197
+Maruti,Alto,May,7675,105922,A,Hatchback,-1,197
+Maruti,Alto,June,7775,105922,A,Hatchback,-1,197
+Maruti,Alto,July,7353,105922,A,Hatchback,-1,197
+Maruti,Alto,August,8546,105922,A,Hatchback,-1,197
+Maruti,Alto,September,8655,105922,A,Hatchback,-1,197
+Maruti,Alto,October ,8548,105922,A,Hatchback,-1,197
+Maruti,Alto,November ,7467,105922,A,Hatchback,-1,197
+Maruti,Alto,December,7410,105922,A,Hatchback,-1,197
+Maruti,Baleno,January,19630,172094,B2,Hatchback,-44,-15
+Maruti,Baleno,February,17517,172094,B2,Hatchback,-44,-15
+Maruti,Baleno,March,15588,172094,B2,Hatchback,-44,-15
+Maruti,Baleno,April,14049,172094,B2,Hatchback,-44,-15
+Maruti,Baleno,May,12842,172094,B2,Hatchback,-44,-15
+Maruti,Baleno,June,14895,172094,B2,Hatchback,-44,-15
+Maruti,Baleno,July,9309,172094,B2,Hatchback,-44,-15
+Maruti,Baleno,August,12485,172094,B2,Hatchback,-44,-15
+Maruti,Baleno,September,14292,172094,B2,Hatchback,-44,-15
+Maruti,Baleno,October ,16082,172094,B2,Hatchback,-44,-15
+Maruti,Baleno,November ,16293,172094,B2,Hatchback,-44,-15
+Maruti,Baleno,December,9112,172094,B2,Hatchback,-44,-15
+Maruti,Brezza,January,15303,188160,C1,SUV,16,35
+Maruti,Brezza,February,15765,188160,C1,SUV,16,35
+Maruti,Brezza,March,14614,188160,C1,SUV,16,35
+Maruti,Brezza,April,17113,188160,C1,SUV,16,35
+Maruti,Brezza,May,14186,188160,C1,SUV,16,35
+Maruti,Brezza,June,13172,188160,C1,SUV,16,35
+Maruti,Brezza,July,14676,188160,C1,SUV,16,35
+Maruti,Brezza,August,19190,188160,C1,SUV,16,35
+Maruti,Brezza,September,15322,188160,C1,SUV,16,35
+Maruti,Brezza,October ,16565,188160,C1,SUV,16,35
+Maruti,Brezza,November ,14918,188160,C1,SUV,16,35
+Maruti,Brezza,December,17336,188160,C1,SUV,16,35
+Maruti,Celerio,January,4406,36047,B1,Hatchback,-69,203
+Maruti,Celerio,February,3586,36047,B1,Hatchback,-69,203
+Maruti,Celerio,March,3478,36047,B1,Hatchback,-69,203
+Maruti,Celerio,April,3220,36047,B1,Hatchback,-69,203
+Maruti,Celerio,May,3314,36047,B1,Hatchback,-69,203
+Maruti,Celerio,June,2985,36047,B1,Hatchback,-69,203
+Maruti,Celerio,July,2465,36047,B1,Hatchback,-69,203
+Maruti,Celerio,August,3181,36047,B1,Hatchback,-69,203
+Maruti,Celerio,September,3241,36047,B1,Hatchback,-69,203
+Maruti,Celerio,October ,3044,36047,B1,Hatchback,-69,203
+Maruti,Celerio,November ,2379,36047,B1,Hatchback,-69,203
+Maruti,Celerio,December,748,36047,B1,Hatchback,-69,203
+Maruti,Ciaz,January,363,7295,C2,Sedan,-22,-5
+Maruti,Ciaz,February,481,7295,C2,Sedan,-22,-5
+Maruti,Ciaz,March,590,7295,C2,Sedan,-22,-5
+Maruti,Ciaz,April,867,7295,C2,Sedan,-22,-5
+Maruti,Ciaz,May,730,7295,C2,Sedan,-22,-5
+Maruti,Ciaz,June,572,7295,C2,Sedan,-22,-5
+Maruti,Ciaz,July,603,7295,C2,Sedan,-22,-5
+Maruti,Ciaz,August,707,7295,C2,Sedan,-22,-5
+Maruti,Ciaz,September,662,7295,C2,Sedan,-22,-5
+Maruti,Ciaz,October ,659,7295,C2,Sedan,-22,-5
+Maruti,Ciaz,November ,597,7295,C2,Sedan,-22,-5
+Maruti,Ciaz,December,464,7295,C2,Sedan,-22,-5
+Maruti,Dzire,January,16773,167988,C1,Sedan,41,18
+Maruti,Dzire,February,15837,167988,C1,Sedan,41,18
+Maruti,Dzire,March,15894,167988,C1,Sedan,41,18
+Maruti,Dzire,April,15825,167988,C1,Sedan,41,18
+Maruti,Dzire,May,16061,167988,C1,Sedan,41,18
+Maruti,Dzire,June,13421,167988,C1,Sedan,41,18
+Maruti,Dzire,July,11647,167988,C1,Sedan,41,18
+Maruti,Dzire,August,10627,167988,C1,Sedan,41,18
+Maruti,Dzire,September,10853,167988,C1,Sedan,41,18
+Maruti,Dzire,October ,12698,167988,C1,Sedan,41,18
+Maruti,Dzire,November ,11779,167988,C1,Sedan,41,18
+Maruti,Dzire,December,16573,167988,C1,Sedan,41,18
+Maruti,Eeco,January,12019,138705,Utility,MUV,10,16
+Maruti,Eeco,February,12147,138705,Utility,MUV,10,16
+Maruti,Eeco,March,12019,138705,Utility,MUV,10,16
+Maruti,Eeco,April,12060,138705,Utility,MUV,10,16
+Maruti,Eeco,May,10960,138705,Utility,MUV,10,16
+Maruti,Eeco,June,10771,138705,Utility,MUV,10,16
+Maruti,Eeco,July,11916,138705,Utility,MUV,10,16
+Maruti,Eeco,August,10985,138705,Utility,MUV,10,16
+Maruti,Eeco,September,11908,138705,Utility,MUV,10,16
+Maruti,Eeco,October ,11653,138705,Utility,MUV,10,16
+Maruti,Eeco,November ,10589,138705,Utility,MUV,10,16
+Maruti,Eeco,December,11678,138705,Utility,MUV,10,16
+Maruti,Ertiga,January,14632,190091,Utility,MUV,6,24
+Maruti,Ertiga,February,15519,190091,Utility,MUV,6,24
+Maruti,Ertiga,March,14888,190091,Utility,MUV,6,24
+Maruti,Ertiga,April,13544,190091,Utility,MUV,6,24
+Maruti,Ertiga,May,13893,190091,Utility,MUV,6,24
+Maruti,Ertiga,June,15902,190091,Utility,MUV,6,24
+Maruti,Ertiga,July,15701,190091,Utility,MUV,6,24
+Maruti,Ertiga,August,18580,190091,Utility,MUV,6,24
+Maruti,Ertiga,September,17441,190091,Utility,MUV,6,24
+Maruti,Ertiga,October ,18785,190091,Utility,MUV,6,24
+Maruti,Ertiga,November ,15150,190091,Utility,MUV,6,24
+Maruti,Ertiga,December,16056,190091,Utility,MUV,6,24
+Maruti,Fronx,January,13643,156236,C1,SUV,-28,11
+Maruti,Fronx,February,14168,156236,C1,SUV,-28,11
+Maruti,Fronx,March,12531,156236,C1,SUV,-28,11
+Maruti,Fronx,April,14286,156236,C1,SUV,-28,11
+Maruti,Fronx,May,12681,156236,C1,SUV,-28,11
+Maruti,Fronx,June,9688,156236,C1,SUV,-28,11
+Maruti,Fronx,July,10925,156236,C1,SUV,-28,11
+Maruti,Fronx,August,12387,156236,C1,SUV,-28,11
+Maruti,Fronx,September,13874,156236,C1,SUV,-28,11
+Maruti,Fronx,October ,16419,156236,C1,SUV,-28,11
+Maruti,Fronx,November ,14882,156236,C1,SUV,-28,11
+Maruti,Fronx,December,10752,156236,C1,SUV,-28,11
+Maruti,Grand Vitara,January,13438,122747,C2,SUV,-30,2
+Maruti,Grand Vitara,February,11002,122747,C2,SUV,-30,2
+Maruti,Grand Vitara,March,11232,122747,C2,SUV,-30,2
+Maruti,Grand Vitara,April,7651,122747,C2,SUV,-30,2
+Maruti,Grand Vitara,May,9736,122747,C2,SUV,-30,2
+Maruti,Grand Vitara,June,9679,122747,C2,SUV,-30,2
+Maruti,Grand Vitara,July,9397,122747,C2,SUV,-30,2
+Maruti,Grand Vitara,August,9021,122747,C2,SUV,-30,2
+Maruti,Grand Vitara,September,10267,122747,C2,SUV,-30,2
+Maruti,Grand Vitara,October ,14083,122747,C2,SUV,-30,2
+Maruti,Grand Vitara,November ,10148,122747,C2,SUV,-30,2
+Maruti,Grand Vitara,December,7093,122747,C2,SUV,-30,2
+Maruti,Ignis,January,2598,24750,B2,Hatchback,-66,91
+Maruti,Ignis,February,211,24750,B2,Hatchback,-66,91
+Maruti,Ignis,March,2788,24750,B2,Hatchback,-66,91
+Maruti,Ignis,April,1915,24750,B2,Hatchback,-66,91
+Maruti,Ignis,May,2104,24750,B2,Hatchback,-66,91
+Maruti,Ignis,June,2536,24750,B2,Hatchback,-66,91
+Maruti,Ignis,July,2216,24750,B2,Hatchback,-66,91
+Maruti,Ignis,August,2464,24750,B2,Hatchback,-66,91
+Maruti,Ignis,September,2514,24750,B2,Hatchback,-66,91
+Maruti,Ignis,October ,2663,24750,B2,Hatchback,-66,91
+Maruti,Ignis,November ,2203,24750,B2,Hatchback,-66,91
+Maruti,Ignis,December,749,24750,B2,Hatchback,-66,91
+Maruti,Invicto,January,496,4016,D1,MUV,90,64
+Maruti,Invicto,February,366,4016,D1,MUV,90,64
+Maruti,Invicto,March,348,4016,D1,MUV,90,64
+Maruti,Invicto,April,193,4016,D1,MUV,90,64
+Maruti,Invicto,May,193,4016,D1,MUV,90,64
+Maruti,Invicto,June,128,4016,D1,MUV,90,64
+Maruti,Invicto,July,251,4016,D1,MUV,90,64
+Maruti,Invicto,August,174,4016,D1,MUV,90,64
+Maruti,Invicto,September,312,4016,D1,MUV,90,64
+Maruti,Invicto,October ,296,4016,D1,MUV,90,64
+Maruti,Invicto,November ,434,4016,D1,MUV,90,64
+Maruti,Invicto,December,825,4016,D1,MUV,90,64
+Maruti,Jimny,January,163,8734,Utility,SUV,11,51
+Maruti,Jimny,February,322,8734,Utility,SUV,11,51
+Maruti,Jimny,March,318,8734,Utility,SUV,11,51
+Maruti,Jimny,April,257,8734,Utility,SUV,11,51
+Maruti,Jimny,May,274,8734,Utility,SUV,11,51
+Maruti,Jimny,June,481,8734,Utility,SUV,11,51
+Maruti,Jimny,July,2429,8734,Utility,SUV,11,51
+Maruti,Jimny,August,592,8734,Utility,SUV,11,51
+Maruti,Jimny,September,599,8734,Utility,SUV,11,51
+Maruti,Jimny,October ,1211,8734,Utility,SUV,11,51
+Maruti,Jimny,November ,988,8734,Utility,SUV,11,51
+Maruti,Jimny,December,1100,8734,Utility,SUV,11,51
+Maruti,S-Presso,January,3454,26180,A,Hatchback,-100,-87
+Maruti,S-Presso,February,3059,26180,A,Hatchback,-100,-87
+Maruti,S-Presso,March,2497,26180,A,Hatchback,-100,-87
+Maruti,S-Presso,April,2476,26180,A,Hatchback,-100,-87
+Maruti,S-Presso,May,2227,26180,A,Hatchback,-100,-87
+Maruti,S-Presso,June,1620,26180,A,Hatchback,-100,-87
+Maruti,S-Presso,July,2607,26180,A,Hatchback,-100,-87
+Maruti,S-Presso,August,2102,26180,A,Hatchback,-100,-87
+Maruti,S-Presso,September,1708,26180,A,Hatchback,-100,-87
+Maruti,S-Presso,October ,2139,26180,A,Hatchback,-100,-87
+Maruti,S-Presso,November ,2283,26180,A,Hatchback,-100,-87
+Maruti,S-Presso,December,8,26180,A,Hatchback,-100,-87
+Maruti,Swift,January,15370,172808,B2,Hatchback,-29,-12
+Maruti,Swift,February,13165,172808,B2,Hatchback,-29,-12
+Maruti,Swift,March,15728,172808,B2,Hatchback,-29,-12
+Maruti,Swift,April,4094,172808,B2,Hatchback,-29,-12
+Maruti,Swift,May,19393,172808,B2,Hatchback,-29,-12
+Maruti,Swift,June,16422,172808,B2,Hatchback,-29,-12
+Maruti,Swift,July,16854,172808,B2,Hatchback,-29,-12
+Maruti,Swift,August,12844,172808,B2,Hatchback,-29,-12
+Maruti,Swift,September,16241,172808,B2,Hatchback,-29,-12
+Maruti,Swift,October ,17539,172808,B2,Hatchback,-29,-12
+Maruti,Swift,November ,14737,172808,B2,Hatchback,-29,-12
+Maruti,Swift,December,10421,172808,B2,Hatchback,-29,-12
+Maruti,WagonR,January,17756,190855,B1,Hatchback,24,102
+Maruti,WagonR,February,19412,190855,B1,Hatchback,24,102
+Maruti,WagonR,March,16368,190855,B1,Hatchback,24,102
+Maruti,WagonR,April,17850,190855,B1,Hatchback,24,102
+Maruti,WagonR,May,14492,190855,B1,Hatchback,24,102
+Maruti,WagonR,June,13790,190855,B1,Hatchback,24,102
+Maruti,WagonR,July,16191,190855,B1,Hatchback,24,102
+Maruti,WagonR,August,16450,190855,B1,Hatchback,24,102
+Maruti,WagonR,September,13339,190855,B1,Hatchback,24,102
+Maruti,WagonR,October ,13922,190855,B1,Hatchback,24,102
+Maruti,WagonR,November ,13982,190855,B1,Hatchback,24,102
+Maruti,WagonR,December,17303,190855,B1,Hatchback,24,102
+Maruti,XL6,January,4363,40686,Utility,MUV,0,12
+Maruti,XL6,February,4093,40686,Utility,MUV,0,12
+Maruti,XL6,March,4505,40686,Utility,MUV,0,12
+Maruti,XL6,April,3509,40686,Utility,MUV,0,12
+Maruti,XL6,May,3241,40686,Utility,MUV,0,12
+Maruti,XL6,June,3323,40686,Utility,MUV,0,12
+Maruti,XL6,July,2923,40686,Utility,MUV,0,12
+Maruti,XL6,August,2740,40686,Utility,MUV,0,12
+Maruti,XL6,September,3734,40686,Utility,MUV,0,12
+Maruti,XL6,October ,3285,40686,Utility,MUV,0,12
+Maruti,XL6,November ,2483,40686,Utility,MUV,0,12
+Maruti,XL6,December,2487,40686,Utility,MUV,0,12
+MG,Astor,January,966,10865,C2,SUV,28,-15
+MG,Astor,February,1036,10865,C2,SUV,28,-15
+MG,Astor,March,1274,10865,C2,SUV,28,-15
+MG,Astor,April,1019,10865,C2,SUV,28,-15
+MG,Astor,May,991,10865,C2,SUV,28,-15
+MG,Astor,June,938,10865,C2,SUV,28,-15
+MG,Astor,July,929,10865,C2,SUV,28,-15
+MG,Astor,August,937,10865,C2,SUV,28,-15
+MG,Astor,September,760,10865,C2,SUV,28,-15
+MG,Astor,October ,767,10865,C2,SUV,28,-15
+MG,Astor,November ,548,10865,C2,SUV,28,-15
+MG,Astor,December,700,10865,C2,SUV,28,-15
+MG,Comet,January,505,11812,B1,Hatchback,17,-12
+MG,Comet,February,920,11812,B1,Hatchback,17,-12
+MG,Comet,March,875,11812,B1,Hatchback,17,-12
+MG,Comet,April,993,11812,B1,Hatchback,17,-12
+MG,Comet,May,1200,11812,B1,Hatchback,17,-12
+MG,Comet,June,1300,11812,B1,Hatchback,17,-12
+MG,Comet,July,1200,11812,B1,Hatchback,17,-12
+MG,Comet,August,1100,11812,B1,Hatchback,17,-12
+MG,Comet,September,1268,11812,B1,Hatchback,17,-12
+MG,Comet,October ,1151,11812,B1,Hatchback,17,-12
+MG,Comet,November ,600,11812,B1,Hatchback,17,-12
+MG,Comet,December,700,11812,B1,Hatchback,17,-12
+MG,Gloster,January,139,1870,D2,SUV,-28,-29
+MG,Gloster,February,168,1870,D2,SUV,-28,-29
+MG,Gloster,March,131,1870,D2,SUV,-28,-29
+MG,Gloster,April,124,1870,D2,SUV,-28,-29
+MG,Gloster,May,135,1870,D2,SUV,-28,-29
+MG,Gloster,June,132,1870,D2,SUV,-28,-29
+MG,Gloster,July,191,1870,D2,SUV,-28,-29
+MG,Gloster,August,236,1870,D2,SUV,-28,-29
+MG,Gloster,September,200,1870,D2,SUV,-28,-29
+MG,Gloster,October ,176,1870,D2,SUV,-28,-29
+MG,Gloster,November ,138,1870,D2,SUV,-28,-29
+MG,Gloster,December,100,1870,D2,SUV,-28,-29
+MG,Hector,January,1817,19639,D1,SUV,24,-37
+MG,Hector,February,1826,19639,D1,SUV,24,-37
+MG,Hector,March,1887,19639,D1,SUV,24,-37
+MG,Hector,April,1813,19639,D1,SUV,24,-37
+MG,Hector,May,1906,19639,D1,SUV,24,-37
+MG,Hector,June,1713,19639,D1,SUV,24,-37
+MG,Hector,July,1780,19639,D1,SUV,24,-37
+MG,Hector,August,1814,19639,D1,SUV,24,-37
+MG,Hector,September,1380,19639,D1,SUV,24,-37
+MG,Hector,October ,1224,19639,D1,SUV,24,-37
+MG,Hector,November ,1106,19639,D1,SUV,24,-37
+MG,Hector,December,1373,19639,D1,SUV,24,-37
+MG,Windsor,January,0,10045,C2,MUV,20,0
+MG,Windsor,February,0,10045,C2,MUV,20,0
+MG,Windsor,March,0,10045,C2,MUV,20,0
+MG,Windsor,April,0,10045,C2,MUV,20,0
+MG,Windsor,May,0,10045,C2,MUV,20,0
+MG,Windsor,June,0,10045,C2,MUV,20,0
+MG,Windsor,July,0,10045,C2,MUV,20,0
+MG,Windsor,August,0,10045,C2,MUV,20,0
+MG,Windsor,September,0,10045,C2,MUV,20,0
+MG,Windsor,October ,3116,10045,C2,MUV,20,0
+MG,Windsor,November ,3144,10045,C2,MUV,20,0
+MG,Windsor,December,3785,10045,C2,MUV,20,0
+MG,ZS EV,January,398,6983,Premium,SUV,78,85
+MG,ZS EV,February,582,6983,Premium,SUV,78,85
+MG,ZS EV,March,481,6983,Premium,SUV,78,85
+MG,ZS EV,April,536,6983,Premium,SUV,78,85
+MG,ZS EV,May,537,6983,Premium,SUV,78,85
+MG,ZS EV,June,561,6983,Premium,SUV,78,85
+MG,ZS EV,July,472,6983,Premium,SUV,78,85
+MG,ZS EV,August,484,6983,Premium,SUV,78,85
+MG,ZS EV,September,980,6983,Premium,SUV,78,85
+MG,ZS EV,October ,611,6983,Premium,SUV,78,85
+MG,ZS EV,November ,483,6983,Premium,SUV,78,85
+MG,ZS EV,December,858,6983,Premium,SUV,78,85
+Nissan,Magnite,January,2863,28987,C1,SUV,-10,-2
+Nissan,Magnite,February,2755,28987,C1,SUV,-10,-2
+Nissan,Magnite,March,2701,28987,C1,SUV,-10,-2
+Nissan,Magnite,April,2404,28987,C1,SUV,-10,-2
+Nissan,Magnite,May,2211,28987,C1,SUV,-10,-2
+Nissan,Magnite,June,2107,28987,C1,SUV,-10,-2
+Nissan,Magnite,July,2011,28987,C1,SUV,-10,-2
+Nissan,Magnite,August,2257,28987,C1,SUV,-10,-2
+Nissan,Magnite,September,2100,28987,C1,SUV,-10,-2
+Nissan,Magnite,October ,3119,28987,C1,SUV,-10,-2
+Nissan,Magnite,November ,2342,28987,C1,SUV,-10,-2
+Nissan,Magnite,December,2117,28987,C1,SUV,-10,-2
+Nissan,X-Trail,January,0,22,D2,SUV,0,0
+Nissan,X-Trail,February,0,22,D2,SUV,0,0
+Nissan,X-Trail,March,0,22,D2,SUV,0,0
+Nissan,X-Trail,April,0,22,D2,SUV,0,0
+Nissan,X-Trail,May,0,22,D2,SUV,0,0
+Nissan,X-Trail,June,0,22,D2,SUV,0,0
+Nissan,X-Trail,July,0,22,D2,SUV,0,0
+Nissan,X-Trail,August,6,22,D2,SUV,0,0
+Nissan,X-Trail,September,13,22,D2,SUV,0,0
+Nissan,X-Trail,October ,2,22,D2,SUV,0,0
+Nissan,X-Trail,November ,0,22,D2,SUV,0,0
+Nissan,X-Trail,December,1,22,D2,SUV,0,0
+Renault,Kiger,January,750,11000,C1,SUV,-24,-31
+Renault,Kiger,February,1047,11000,C1,SUV,-24,-31
+Renault,Kiger,March,1050,11000,C1,SUV,-24,-31
+Renault,Kiger,April,1059,11000,C1,SUV,-24,-31
+Renault,Kiger,May,850,11000,C1,SUV,-24,-31
+Renault,Kiger,June,1150,11000,C1,SUV,-24,-31
+Renault,Kiger,July,810,11000,C1,SUV,-24,-31
+Renault,Kiger,August,870,11000,C1,SUV,-24,-31
+Renault,Kiger,September,988,11000,C1,SUV,-24,-31
+Renault,Kiger,October ,1053,11000,C1,SUV,-24,-31
+Renault,Kiger,November ,779,11000,C1,SUV,-24,-31
+Renault,Kiger,December,594,11000,C1,SUV,-24,-31
+Renault,Kwid,January,856,8705,A,Hatchback,15,37
+Renault,Kwid,February,828,8705,A,Hatchback,15,37
+Renault,Kwid,March,928,8705,A,Hatchback,15,37
+Renault,Kwid,April,977,8705,A,Hatchback,15,37
+Renault,Kwid,May,743,8705,A,Hatchback,15,37
+Renault,Kwid,June,603,8705,A,Hatchback,15,37
+Renault,Kwid,July,565,8705,A,Hatchback,15,37
+Renault,Kwid,August,634,8705,A,Hatchback,15,37
+Renault,Kwid,September,691,8705,A,Hatchback,15,37
+Renault,Kwid,October ,706,8705,A,Hatchback,15,37
+Renault,Kwid,November ,546,8705,A,Hatchback,15,37
+Renault,Kwid,December,628,8705,A,Hatchback,15,37
+Renault,Triber,January,2220,22024,Utility,MUV,12,149
+Renault,Triber,February,2205,22024,Utility,MUV,12,149
+Renault,Triber,March,2247,22024,Utility,MUV,12,149
+Renault,Triber,April,1671,22024,Utility,MUV,12,149
+Renault,Triber,May,2116,22024,Utility,MUV,12,149
+Renault,Triber,June,1800,22024,Utility,MUV,12,149
+Renault,Triber,July,1457,22024,Utility,MUV,12,149
+Renault,Triber,August,1514,22024,Utility,MUV,12,149
+Renault,Triber,September,1538,22024,Utility,MUV,12,149
+Renault,Triber,October ,2111,22024,Utility,MUV,12,149
+Renault,Triber,November ,1486,22024,Utility,MUV,12,149
+Renault,Triber,December,1659,22024,Utility,MUV,12,149
+Skoda,Kodiaq,January,53,1907,D2,SUV,-14,-14
+Skoda,Kodiaq,February,89,1907,D2,SUV,-14,-14
+Skoda,Kodiaq,March,136,1907,D2,SUV,-14,-14
+Skoda,Kodiaq,April,154,1907,D2,SUV,-14,-14
+Skoda,Kodiaq,May,185,1907,D2,SUV,-14,-14
+Skoda,Kodiaq,June,137,1907,D2,SUV,-14,-14
+Skoda,Kodiaq,July,240,1907,D2,SUV,-14,-14
+Skoda,Kodiaq,August,145,1907,D2,SUV,-14,-14
+Skoda,Kodiaq,September,140,1907,D2,SUV,-14,-14
+Skoda,Kodiaq,October ,209,1907,D2,SUV,-14,-14
+Skoda,Kodiaq,November ,225,1907,D2,SUV,-14,-14
+Skoda,Kodiaq,December,194,1907,D2,SUV,-14,-14
+Skoda,Kushaq,January,1082,17567,C2,SUV,62,-1
+Skoda,Kushaq,February,1137,17567,C2,SUV,62,-1
+Skoda,Kushaq,March,1293,17567,C2,SUV,62,-1
+Skoda,Kushaq,April,1159,17567,C2,SUV,62,-1
+Skoda,Kushaq,May,1157,17567,C2,SUV,62,-1
+Skoda,Kushaq,June,1198,17567,C2,SUV,62,-1
+Skoda,Kushaq,July,1070,17567,C2,SUV,62,-1
+Skoda,Kushaq,August,1502,17567,C2,SUV,62,-1
+Skoda,Kushaq,September,1767,17567,C2,SUV,62,-1
+Skoda,Kushaq,October ,2213,17567,C2,SUV,62,-1
+Skoda,Kushaq,November ,1524,17567,C2,SUV,62,-1
+Skoda,Kushaq,December,2465,17567,C2,SUV,62,-1
+Skoda,Slavia,January,1242,15617,C2,Sedan,67,-3
+Skoda,Slavia,February,1028,15617,C2,Sedan,67,-3
+Skoda,Slavia,March,1358,15617,C2,Sedan,67,-3
+Skoda,Slavia,April,1253,15617,C2,Sedan,67,-3
+Skoda,Slavia,May,1538,15617,C2,Sedan,67,-3
+Skoda,Slavia,June,1230,15617,C2,Sedan,67,-3
+Skoda,Slavia,July,793,15617,C2,Sedan,67,-3
+Skoda,Slavia,August,1122,15617,C2,Sedan,67,-3
+Skoda,Slavia,September,1391,15617,C2,Sedan,67,-3
+Skoda,Slavia,October ,1637,15617,C2,Sedan,67,-3
+Skoda,Slavia,November ,1131,15617,C2,Sedan,67,-3
+Skoda,Slavia,December,1894,15617,C2,Sedan,67,-3
+Skoda,Superb,January,0,66,D2,Sedan,-83,0
+Skoda,Superb,February,0,66,D2,Sedan,-83,0
+Skoda,Superb,March,15,66,D2,Sedan,-83,0
+Skoda,Superb,April,13,66,D2,Sedan,-83,0
+Skoda,Superb,May,4,66,D2,Sedan,-83,0
+Skoda,Superb,June,1,66,D2,Sedan,-83,0
+Skoda,Superb,July,0,66,D2,Sedan,-83,0
+Skoda,Superb,August,3,66,D2,Sedan,-83,0
+Skoda,Superb,September,3,66,D2,Sedan,-83,0
+Skoda,Superb,October ,20,66,D2,Sedan,-83,0
+Skoda,Superb,November ,6,66,D2,Sedan,-83,0
+Skoda,Superb,December,1,66,D2,Sedan,-83,0
+Tata,Altroz,January,4935,45380,B2,Hatchback,-10,-54
+Tata,Altroz,February,4568,45380,B2,Hatchback,-10,-54
+Tata,Altroz,March,5985,45380,B2,Hatchback,-10,-54
+Tata,Altroz,April,5148,45380,B2,Hatchback,-10,-54
+Tata,Altroz,May,4983,45380,B2,Hatchback,-10,-54
+Tata,Altroz,June,3937,45380,B2,Hatchback,-10,-54
+Tata,Altroz,July,3444,45380,B2,Hatchback,-10,-54
+Tata,Altroz,August,3031,45380,B2,Hatchback,-10,-54
+Tata,Altroz,September,2758,45380,B2,Hatchback,-10,-54
+Tata,Altroz,October ,2642,45380,B2,Hatchback,-10,-54
+Tata,Altroz,November ,2083,45380,B2,Hatchback,-10,-54
+Tata,Altroz,December,1866,45380,B2,Hatchback,-10,-54
+Tata,Curvv,January,0,23664,C2,SUV,-2,0
+Tata,Curvv,February,0,23664,C2,SUV,-2,0
+Tata,Curvv,March,0,23664,C2,SUV,-2,0
+Tata,Curvv,April,0,23664,C2,SUV,-2,0
+Tata,Curvv,May,0,23664,C2,SUV,-2,0
+Tata,Curvv,June,0,23664,C2,SUV,-2,0
+Tata,Curvv,July,0,23664,C2,SUV,-2,0
+Tata,Curvv,August,3455,23664,C2,SUV,-2,0
+Tata,Curvv,September,4763,23664,C2,SUV,-2,0
+Tata,Curvv,October ,5351,23664,C2,SUV,-2,0
+Tata,Curvv,November ,5101,23664,C2,SUV,-2,0
+Tata,Curvv,December,4994,23664,C2,SUV,-2,0
+Tata,Harrier,January,2626,22071,D1,SUV,-5,-7
+Tata,Harrier,February,2562,22071,D1,SUV,-5,-7
+Tata,Harrier,March,2054,22071,D1,SUV,-5,-7
+Tata,Harrier,April,1746,22071,D1,SUV,-5,-7
+Tata,Harrier,May,1625,22071,D1,SUV,-5,-7
+Tata,Harrier,June,1347,22071,D1,SUV,-5,-7
+Tata,Harrier,July,1991,22071,D1,SUV,-5,-7
+Tata,Harrier,August,1892,22071,D1,SUV,-5,-7
+Tata,Harrier,September,1600,22071,D1,SUV,-5,-7
+Tata,Harrier,October ,1947,22071,D1,SUV,-5,-7
+Tata,Harrier,November ,1374,22071,D1,SUV,-5,-7
+Tata,Harrier,December,1307,22071,D1,SUV,-5,-7
+Tata,Nexon,January,17182,161611,C1,SUV,-12,-11
+Tata,Nexon,February,14395,161611,C1,SUV,-12,-11
+Tata,Nexon,March,14058,161611,C1,SUV,-12,-11
+Tata,Nexon,April,11168,161611,C1,SUV,-12,-11
+Tata,Nexon,May,11457,161611,C1,SUV,-12,-11
+Tata,Nexon,June,12066,161611,C1,SUV,-12,-11
+Tata,Nexon,July,13902,161611,C1,SUV,-12,-11
+Tata,Nexon,August,12289,161611,C1,SUV,-12,-11
+Tata,Nexon,September,11470,161611,C1,SUV,-12,-11
+Tata,Nexon,October ,14759,161611,C1,SUV,-12,-11
+Tata,Nexon,November ,15329,161611,C1,SUV,-12,-11
+Tata,Nexon,December,13536,161611,C1,SUV,-12,-11
+Tata,Punch,January,17978,202031,C1,SUV,-2,9
+Tata,Punch,February,18438,202031,C1,SUV,-2,9
+Tata,Punch,March,17547,202031,C1,SUV,-2,9
+Tata,Punch,April,19158,202031,C1,SUV,-2,9
+Tata,Punch,May,18949,202031,C1,SUV,-2,9
+Tata,Punch,June,18238,202031,C1,SUV,-2,9
+Tata,Punch,July,16121,202031,C1,SUV,-2,9
+Tata,Punch,August,15643,202031,C1,SUV,-2,9
+Tata,Punch,September,13711,202031,C1,SUV,-2,9
+Tata,Punch,October ,15740,202031,C1,SUV,-2,9
+Tata,Punch,November ,15435,202031,C1,SUV,-2,9
+Tata,Punch,December,15073,202031,C1,SUV,-2,9
+Tata,Safari,January,2893,23113,D1,SUV,-11,-34
+Tata,Safari,February,2648,23113,D1,SUV,-11,-34
+Tata,Safari,March,2063,23113,D1,SUV,-11,-34
+Tata,Safari,April,1716,23113,D1,SUV,-11,-34
+Tata,Safari,May,1661,23113,D1,SUV,-11,-34
+Tata,Safari,June,1394,23113,D1,SUV,-11,-34
+Tata,Safari,July,2109,23113,D1,SUV,-11,-34
+Tata,Safari,August,1951,23113,D1,SUV,-11,-34
+Tata,Safari,September,1644,23113,D1,SUV,-11,-34
+Tata,Safari,October ,2086,23113,D1,SUV,-11,-34
+Tata,Safari,November ,1563,23113,D1,SUV,-11,-34
+Tata,Safari,December,1385,23113,D1,SUV,-11,-34
+Tata,Tiago,January,6482,67337,B1,Hatchback,-6,3
+Tata,Tiago,February,6947,67337,B1,Hatchback,-6,3
+Tata,Tiago,March,6381,67337,B1,Hatchback,-6,3
+Tata,Tiago,April,6796,67337,B1,Hatchback,-6,3
+Tata,Tiago,May,5927,67337,B1,Hatchback,-6,3
+Tata,Tiago,June,5174,67337,B1,Hatchback,-6,3
+Tata,Tiago,July,5665,67337,B1,Hatchback,-6,3
+Tata,Tiago,August,4733,67337,B1,Hatchback,-6,3
+Tata,Tiago,September,4225,67337,B1,Hatchback,-6,3
+Tata,Tiago,October ,4682,67337,B1,Hatchback,-6,3
+Tata,Tiago,November ,5319,67337,B1,Hatchback,-6,3
+Tata,Tiago,December,5006,67337,B1,Hatchback,-6,3
+Tata,Tigor,January,1539,15895,C1,Sedan,23,-46
+Tata,Tigor,February,1712,15895,C1,Sedan,23,-46
+Tata,Tigor,March,2017,15895,C1,Sedan,23,-46
+Tata,Tigor,April,2153,15895,C1,Sedan,23,-46
+Tata,Tigor,May,2098,15895,C1,Sedan,23,-46
+Tata,Tigor,July,1495,15895,C1,Sedan,23,-46
+Tata,Tigor,August,1148,15895,C1,Sedan,23,-46
+Tata,Tigor,September,894,15895,C1,Sedan,23,-46
+Tata,Tigor,October ,926,15895,C1,Sedan,23,-46
+Tata,Tigor,November ,859,15895,C1,Sedan,23,-46
+Tata,Tigor,December,1054,15895,C1,Sedan,23,-46
+Toyota,Camry,January,312,1999,D2,Sedan,-32,-51
+Toyota,Camry,February,210,1999,D2,Sedan,-32,-51
+Toyota,Camry,March,232,1999,D2,Sedan,-32,-51
+Toyota,Camry,April,179,1999,D2,Sedan,-32,-51
+Toyota,Camry,May,122,1999,D2,Sedan,-32,-51
+Toyota,Camry,June,143,1999,D2,Sedan,-32,-51
+Toyota,Camry,July,126,1999,D2,Sedan,-32,-51
+Toyota,Camry,August,154,1999,D2,Sedan,-32,-51
+Toyota,Camry,September,127,1999,D2,Sedan,-32,-51
+Toyota,Camry,October ,176,1999,D2,Sedan,-32,-51
+Toyota,Camry,November ,130,1999,D2,Sedan,-32,-51
+Toyota,Camry,December,88,1999,D2,Sedan,-32,-51
+Toyota,Fortuner,January,3213,33597,D2,SUV,-23,-29
+Toyota,Fortuner,February,3395,33597,D2,SUV,-23,-29
+Toyota,Fortuner,March,3621,33597,D2,SUV,-23,-29
+Toyota,Fortuner,April,2325,33597,D2,SUV,-23,-29
+Toyota,Fortuner,May,2422,33597,D2,SUV,-23,-29
+Toyota,Fortuner,June,2675,33597,D2,SUV,-23,-29
+Toyota,Fortuner,July,2380,33597,D2,SUV,-23,-29
+Toyota,Fortuner,August,2338,33597,D2,SUV,-23,-29
+Toyota,Fortuner,September,2473,33597,D2,SUV,-23,-29
+Toyota,Fortuner,October ,3684,33597,D2,SUV,-23,-29
+Toyota,Fortuner,November ,2865,33597,D2,SUV,-23,-29
+Toyota,Fortuner,December,2206,33597,D2,SUV,-23,-29
+Toyota,Glanza,January,3740,49927,B2,Hatchback,-8,-15
+Toyota,Glanza,February,4581,49927,B2,Hatchback,-8,-15
+Toyota,Glanza,March,4319,49927,B2,Hatchback,-8,-15
+Toyota,Glanza,April,4380,49927,B2,Hatchback,-8,-15
+Toyota,Glanza,May,4517,49927,B2,Hatchback,-8,-15
+Toyota,Glanza,June,4118,49927,B2,Hatchback,-8,-15
+Toyota,Glanza,July,4836,49927,B2,Hatchback,-8,-15
+Toyota,Glanza,August,4624,49927,B2,Hatchback,-8,-15
+Toyota,Glanza,September,3246,49927,B2,Hatchback,-8,-15
+Toyota,Glanza,October ,4273,49927,B2,Hatchback,-8,-15
+Toyota,Glanza,November ,3806,49927,B2,Hatchback,-8,-15
+Toyota,Glanza,December,3487,49927,B2,Hatchback,-8,-15
+Toyota,Hilux,January,289,2902,D2,Others,14,-47
+Toyota,Hilux,February,245,2902,D2,Others,14,-47
+Toyota,Hilux,March,356,2902,D2,Others,14,-47
+Toyota,Hilux,April,264,2902,D2,Others,14,-47
+Toyota,Hilux,May,283,2902,D2,Others,14,-47
+Toyota,Hilux,June,236,2902,D2,Others,14,-47
+Toyota,Hilux,July,178,2902,D2,Others,14,-47
+Toyota,Hilux,August,204,2902,D2,Others,14,-47
+Toyota,Hilux,September,186,2902,D2,Others,14,-47
+Toyota,Hilux,October ,342,2902,D2,Others,14,-47
+Toyota,Hilux,November ,149,2902,D2,Others,14,-47
+Toyota,Hilux,December,170,2902,D2,Others,14,-47
+Toyota,Hyryder,January,5543,62956,C2,SUV,-2,-4
+Toyota,Hyryder,February,5601,62956,C2,SUV,-2,-4
+Toyota,Hyryder,March,5965,62956,C2,SUV,-2,-4
+Toyota,Hyryder,April,3252,62956,C2,SUV,-2,-4
+Toyota,Hyryder,May,3906,62956,C2,SUV,-2,-4
+Toyota,Hyryder,June,4275,62956,C2,SUV,-2,-4
+Toyota,Hyryder,July,7419,62956,C2,SUV,-2,-4
+Toyota,Hyryder,August,6534,62956,C2,SUV,-2,-4
+Toyota,Hyryder,September,5385,62956,C2,SUV,-2,-4
+Toyota,Hyryder,October ,5449,62956,C2,SUV,-2,-4
+Toyota,Hyryder,November ,4857,62956,C2,SUV,-2,-4
+Toyota,Hyryder,December,4770,62956,C2,SUV,-2,-4
+Toyota,"Innova Crysta, Innova Hycross",January,9400,106900,D1,MUV,23,24
+Toyota,"Innova Crysta, Innova Hycross",February,8481,106900,D1,MUV,23,24
+Toyota,"Innova Crysta, Innova Hycross",March,9900,106900,D1,MUV,23,24
+Toyota,"Innova Crysta, Innova Hycross",April,7103,106900,D1,MUV,23,24
+Toyota,"Innova Crysta, Innova Hycross",May,8548,106900,D1,MUV,23,24
+Toyota,"Innova Crysta, Innova Hycross",June,9412,106900,D1,MUV,23,24
+Toyota,"Innova Crysta, Innova Hycross",July,9912,106900,D1,MUV,23,24
+Toyota,"Innova Crysta, Innova Hycross",August,9687,106900,D1,MUV,23,24
+Toyota,"Innova Crysta, Innova Hycross",September,8052,106900,D1,MUV,23,24
+Toyota,"Innova Crysta, Innova Hycross",October ,8838,106900,D1,MUV,23,24
+Toyota,"Innova Crysta, Innova Hycross",November ,7867,106900,D1,MUV,23,24
+Toyota,"Innova Crysta, Innova Hycross",December,9700,106900,D1,MUV,23,24
+Toyota,Land Cruiser,January,0,0,Premium,SUV,0,0
+Toyota,Land Cruiser,February,0,0,Premium,SUV,0,0
+Toyota,Land Cruiser,March,0,0,Premium,SUV,0,0
+Toyota,Land Cruiser,April,0,0,Premium,SUV,0,0
+Toyota,Land Cruiser,May,0,0,Premium,SUV,0,0
+Toyota,Land Cruiser,June,0,0,Premium,SUV,0,0
+Toyota,Land Cruiser,July,0,0,Premium,SUV,0,0
+Toyota,Land Cruiser,August,0,0,Premium,SUV,0,0
+Toyota,Land Cruiser,September,0,0,Premium,SUV,0,0
+Toyota,Land Cruiser,October ,0,0,Premium,SUV,0,0
+Toyota,Land Cruiser,November ,0,0,Premium,SUV,0,0
+Toyota,Land Cruiser,December,0,0,Premium,SUV,0,0
+Toyota,Rumion,January,639,18099,"
+Utility",MUV,-2,113
+Toyota,Rumion,February,730,18099,"
+Utility",MUV,-2,113
+Toyota,Rumion,March,688,18099,"
+Utility",MUV,-2,113
+Toyota,Rumion,April,1192,18099,"
+Utility",MUV,-2,113
+Toyota,Rumion,May,1919,18099,"
+Utility",MUV,-2,113
+Toyota,Rumion,June,1566,18099,"
+Utility",MUV,-2,113
+Toyota,Rumion,July,1929,18099,"
+Utility",MUV,-2,113
+Toyota,Rumion,August,1721,18099,"
+Utility",MUV,-2,113
+Toyota,Rumion,September,1968,18099,"
+Utility",MUV,-2,113
+Toyota,Rumion,October ,2169,18099,"
+Utility",MUV,-2,113
+Toyota,Rumion,November ,1803,18099,"
+Utility",MUV,-2,113
+Toyota,Rumion,December,1775,18099,"
+Utility",MUV,-2,113
+Toyota,Taisor,January,0,22836,C1,Hatchback,-27,0
+Toyota,Taisor,February,0,22836,C1,Hatchback,-27,0
+Toyota,Taisor,March,0,22836,C1,Hatchback,-27,0
+Toyota,Taisor,April,0,22836,C1,Hatchback,-27,0
+Toyota,Taisor,May,2180,22836,C1,Hatchback,-27,0
+Toyota,Taisor,June,3185,22836,C1,Hatchback,-27,0
+Toyota,Taisor,July,2640,22836,C1,Hatchback,-27,0
+Toyota,Taisor,August,3213,22836,C1,Hatchback,-27,0
+Toyota,Taisor,September,2278,22836,C1,Hatchback,-27,0
+Toyota,Taisor,October ,3092,22836,C1,Hatchback,-27,0
+Toyota,Taisor,November ,3620,22836,C1,Hatchback,-27,0
+Toyota,Taisor,December,2628,22836,C1,Hatchback,-27,0
+Toyota,Vellfire,January,61,943,Premium,MUV,-27,70
+Toyota,Vellfire,February,57,943,Premium,MUV,-27,70
+Toyota,Vellfire,March,38,943,Premium,MUV,-27,70
+Toyota,Vellfire,April,5,943,Premium,MUV,-27,70
+Toyota,Vellfire,May,62,943,Premium,MUV,-27,70
+Toyota,Vellfire,June,142,943,Premium,MUV,-27,70
+Toyota,Vellfire,July,113,943,Premium,MUV,-27,70
+Toyota,Vellfire,August,114,943,Premium,MUV,-27,70
+Toyota,Vellfire,September,87,943,Premium,MUV,-27,70
+Toyota,Vellfire,October ,115,943,Premium,MUV,-27,70
+Toyota,Vellfire,November ,86,943,Premium,MUV,-27,70
+Toyota,Vellfire,December,63,943,Premium,MUV,-27,70
+Volkswagen,Taigun,January,1275,19650,C2,SUV,56,-5
+Volkswagen,Taigun,February,1286,19650,C2,SUV,56,-5
+Volkswagen,Taigun,March,1588,19650,C2,SUV,56,-5
+Volkswagen,Taigun,April,1758,19650,C2,SUV,56,-5
+Volkswagen,Taigun,May,1561,19650,C2,SUV,56,-5
+Volkswagen,Taigun,June,1519,19650,C2,SUV,56,-5
+Volkswagen,Taigun,July,1564,19650,C2,SUV,56,-5
+Volkswagen,Taigun,August,1628,19650,C2,SUV,56,-5
+Volkswagen,Taigun,September,1611,19650,C2,SUV,56,-5
+Volkswagen,Taigun,October ,2028,19650,C2,SUV,56,-5
+Volkswagen,Taigun,November ,1497,19650,C2,SUV,56,-5
+Volkswagen,Taigun,December,2335,19650,C2,SUV,56,-5
+Volkswagen,Tiguan,January,113,1193,D2,SUV,147,-29
+Volkswagen,Tiguan,February,102,1193,D2,SUV,147,-29
+Volkswagen,Tiguan,March,94,1193,D2,SUV,147,-29
+Volkswagen,Tiguan,April,108,1193,D2,SUV,147,-29
+Volkswagen,Tiguan,May,102,1193,D2,SUV,147,-29
+Volkswagen,Tiguan,June,85,1193,D2,SUV,147,-29
+Volkswagen,Tiguan,July,77,1193,D2,SUV,147,-29
+Volkswagen,Tiguan,August,73,1193,D2,SUV,147,-29
+Volkswagen,Tiguan,September,86,1193,D2,SUV,147,-29
+Volkswagen,Tiguan,October ,79,1193,D2,SUV,147,-29
+Volkswagen,Tiguan,November ,79,1193,D2,SUV,147,-29
+Volkswagen,Tiguan,December,195,1193,D2,SUV,147,-29
+Volkswagen,Virtus,January,1879,21210,C2,Sedan,55,3
+Volkswagen,Virtus,February,1631,21210,C2,Sedan,55,3
+Volkswagen,Virtus,March,1847,21210,C2,Sedan,55,3
+Volkswagen,Virtus,April,1183,21210,C2,Sedan,55,3
+Volkswagen,Virtus,May,1610,21210,C2,Sedan,55,3
+Volkswagen,Virtus,June,1656,21210,C2,Sedan,55,3
+Volkswagen,Virtus,July,1766,21210,C2,Sedan,55,3
+Volkswagen,Virtus,August,1876,21210,C2,Sedan,55,3
+Volkswagen,Virtus,September,1697,21210,C2,Sedan,55,3
+Volkswagen,Virtus,October ,2351,21210,C2,Sedan,55,3
+Volkswagen,Virtus,November ,1457,21210,C2,Sedan,55,3
+Volkswagen,Virtus,December,2257,21210,C2,Sedan,55,3

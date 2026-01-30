@@ -18,7 +18,7 @@
 
 
 
-##### The project is divided into four logical layers:
+#### The project is divided into four logical layers:
 
 1. Excel – Raw dataset \& initial inspection
 2. SQL – Business-focused querying and KPI analysis
@@ -31,9 +31,9 @@
 
 
 
-##### The dataset contains monthly car sales information across multiple dimensions:
+#### The dataset contains monthly car sales information across multiple dimensions:
 
-###### Key Columns:
+##### Key Columns:
 
 * Make (Brand)
 * Model
@@ -56,14 +56,14 @@ The data represents a denormalized reporting-style dataset, similar to what anal
 
 
 
-1. ###### Data Analysis \& Querying
+1. ##### Data Analysis \& Querying
 
 * Excel
 * SQL (MySQL / phpMyAdmin)
 
 
 
-###### 2\. Data Analysis \& Visualization
+##### 2\. Data Analysis \& Visualization
 
 * Python
 * Pandas
@@ -72,7 +72,7 @@ The data represents a denormalized reporting-style dataset, similar to what anal
 
 
 
-###### 3\. Power BI Desktop
+##### 3\. Power BI Desktop
 
 * DAX
 * Data modeling
@@ -82,11 +82,11 @@ The data represents a denormalized reporting-style dataset, similar to what anal
 
 #### 🔍 SQL Analysis (Business Querying Layer) -
 
-###### Purpose : To strengthen core SQL analytics skills using real-world sales data.
+#### Purpose : To strengthen core SQL analytics skills using real-world sales data.
 
 
 
-###### Key SQL Concepts Used :
+#### Key SQL Concepts Used :
 
 * SELECT, WHERE
 * ORDER BY, LIMIT
@@ -99,7 +99,7 @@ The data represents a denormalized reporting-style dataset, similar to what anal
 
 
 
-###### Sample Business Questions Answered :
+#### Sample Business Questions Answered :
 
 
 
@@ -113,20 +113,20 @@ The data represents a denormalized reporting-style dataset, similar to what anal
 
 #### 🐍 Python Exploratory Data Analysis (EDA Layer) -
 
-###### Purpose : To explore, validate, and visually analyze sales data before dashboarding.
+#### Purpose : To explore, validate, and visually analyze sales data before dashboarding.
 
 
 
-###### Key EDA Steps :
+#### Key EDA Steps :
 
 * Data loading and cleaning using Pandas
 * Standardizing month order for time-series analysis
 * Aggregation and grouping for insights
 * Visual storytelling through charts
 
-###### 
+####
 
-###### Visual Analyses Performed :
+#### Visual Analyses Performed :
 
 * Monthly sales trends
 * Sales by segment
@@ -137,7 +137,7 @@ The data represents a denormalized reporting-style dataset, similar to what anal
 
 
 
-###### Key Insights :
+#### Key Insights :
 
 
 
@@ -151,11 +151,11 @@ The data represents a denormalized reporting-style dataset, similar to what anal
 
 #### 📊 Power BI Dashboard -
 
-###### Dashboard Highlights :
+#### Dashboard Highlights :
 
-###### 
+####
 
-1. ###### KPI Cards:
+1. #### KPI Cards:
 
 
 
@@ -165,7 +165,7 @@ The data represents a denormalized reporting-style dataset, similar to what anal
 
 
 
-###### 2\. Charts:
+#### 2\. Charts:
 
 * Monthly Sales \& MoM Growth Trend
 * Top Brands by Sales
@@ -174,9 +174,9 @@ The data represents a denormalized reporting-style dataset, similar to what anal
 * Market Share by Body Type
 * Quarterly Sales Performance
 
-###### 
+####
 
-###### 3\. Interactivity:
+#### 3\. Interactivity:
 
 
 
@@ -186,7 +186,7 @@ The data represents a denormalized reporting-style dataset, similar to what anal
 
 
 
-###### 4\. Data Modeling Best Practices -
+#### 4\. Data Modeling Best Practices -
 
 
 
@@ -197,7 +197,7 @@ The data represents a denormalized reporting-style dataset, similar to what anal
 
 
 
-###### 5\. Design Focus -
+#### 5\. Design Focus -
 
 
 
@@ -220,7 +220,7 @@ To transform raw car sales data into meaningful business insights and present th
 
 
 
-###### This project demonstrates strong capabilities in:
+#### This project demonstrates strong capabilities in:
 
 * SQL-based business analysis
 * Python exploratory data analysis
@@ -240,5 +240,6 @@ To transform raw car sales data into meaningful business insights and present th
 **Aspiring Data Analyst**
 
 **Skills: Excel | SQL | Python | Power BI | Data Visualization | Business Analytics**
+
 
 

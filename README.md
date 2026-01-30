@@ -10,7 +10,7 @@
 
 
 
-!\[Car Sales Power BI Dashboard](images/car\_sales\_dashboard.png)
+![Car Sales Power BI Dashboard](images/car_sales_dashboard.png)
 
 
 
@@ -240,4 +240,5 @@ To transform raw car sales data into meaningful business insights and present th
 **Aspiring Data Analyst**
 
 **Skills: Excel | SQL | Python | Power BI | Data Visualization | Business Analytics**
+
 

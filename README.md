@@ -1,8 +1,8 @@
-### 🚗 Car Sales Analysis Project (India – 2024)
+###  Car Sales Analysis Project (India – 2024)
 
 
 
-#### 📌 Project Overview -
+####  Project Overview -
 
 * This project is an end-to-end data analytics case study focused on analyzing car sales performance in India for the year 2024.
 * It demonstrates a complete analytics workflow — starting from raw data analysis and querying, progressing through exploratory data analysis, and concluding with an interactive business dashboard.
@@ -14,7 +14,7 @@
 
 
 
-#### 🧩 Project Structure -
+####  Project Structure -
 
 
 
@@ -27,7 +27,7 @@
 
 
 
-#### 📂 Dataset Description -
+####  Dataset Description -
 
 
 
@@ -52,7 +52,7 @@ The data represents a denormalized reporting-style dataset, similar to what anal
 
 
 
-#### 🧰 Tools \& Technologies Used -
+####  Tools \& Technologies Used -
 
 
 
@@ -80,7 +80,7 @@ The data represents a denormalized reporting-style dataset, similar to what anal
 
 
 
-#### 🔍 SQL Analysis (Business Querying Layer) -
+####  SQL Analysis (Business Querying Layer) -
 
 #### Purpose : To strengthen core SQL analytics skills using real-world sales data.
 
@@ -111,7 +111,7 @@ The data represents a denormalized reporting-style dataset, similar to what anal
 
 
 
-#### 🐍 Python Exploratory Data Analysis (EDA Layer) -
+####  Python Exploratory Data Analysis (EDA Layer) -
 
 #### Purpose : To explore, validate, and visually analyze sales data before dashboarding.
 
@@ -149,7 +149,7 @@ The data represents a denormalized reporting-style dataset, similar to what anal
 
 
 
-#### 📊 Power BI Dashboard -
+####  Power BI Dashboard -
 
 #### Dashboard Highlights :
 
@@ -208,7 +208,7 @@ The data represents a denormalized reporting-style dataset, similar to what anal
 
 
 
-#### 🎯 Project Objective -
+####  Project Objective -
 
 
 
@@ -216,7 +216,7 @@ To transform raw car sales data into meaningful business insights and present th
 
 
 
-#### 🏁 Conclusion -
+####  Conclusion -
 
 
 
@@ -231,7 +231,7 @@ To transform raw car sales data into meaningful business insights and present th
 
 
 
-#### 👤 Author -
+####  Author -
 
 
 
